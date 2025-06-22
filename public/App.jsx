@@ -1,1 +1,10 @@
-export default function App() { return <div>Hello Market Calendar</div>; }
+import React from 'react';
+import CalendarGrid from './components/CalendarGrid'; // ✅ Make sure the filename is correct
+
+export default function App() {
+  return (
+    <div className="App">
+      <CalendarGrid />
+    </div>
+  );
+}
