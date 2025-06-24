@@ -1,5 +1,5 @@
 import React from 'react';
-import CalendarGrid from './components/CalendarGrid'; // ✅ Make sure the filename is correct
+import CalendarGrid from './components/CalendarGrid.jsx'; // ✅ Make sure the filename is correct
 
 export default function App() {
   return (
