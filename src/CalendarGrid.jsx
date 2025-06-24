@@ -38,4 +38,4 @@ const CalendarGrid = () => {
   );
 };
 
-export default CalendarGrid.jsx;
+export default CalendarGrid;
