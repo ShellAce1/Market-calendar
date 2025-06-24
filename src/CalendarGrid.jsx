@@ -1,4 +1,4 @@
-// src/components/App.jsx
+// src/components/CalendarGrid.jsx
 import React from 'react';
 import './CalendarGrid.css'; // Optional: Add styles here or in Tailwind
 
