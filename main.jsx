@@ -8,4 +8,3 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <CalendarGrid />
   </React.StrictMode>
 );
-// React entry point
